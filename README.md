@@ -30,7 +30,6 @@ Python is used for initial data inspection and preparation, MySQL is used to ans
 |---|---|
 | **Python** | Data inspection, quality checks, and preparation |
 | **Pandas & NumPy** | Data handling and manipulation |
-| **Matplotlib & Seaborn** | Python visualisation libraries |
 | **MySQL** | SQL queries and business analysis |
 | **Power BI** | Dashboard design and visual reporting |
 | **Jupyter Notebook** | Python workflow and documentation |
